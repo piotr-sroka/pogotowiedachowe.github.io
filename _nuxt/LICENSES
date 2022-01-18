@@ -11,36 +11,6 @@
  */
 
 
-/*!
-   * perfect-scrollbar v1.5.0
-   * Copyright 2020 Hyunje Jun, MDBootstrap and Contributors
-   * Licensed under MIT
-   */
-
-/*!
-  * vue-scrollto v2.20.0
-  * (c) 2019 Randjelovic Igor
-  * @license MIT
-  */
-
-/*!
- * Font Awesome Free 5.15.3 by @fontawesome - https://fontawesome.com
- * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
- */
-
-/*!
- * vue-client-only v2.0.0
- * (c) 2019-present egoist <0x142857@gmail.com>
- * Released under the MIT License.
- */
-
-/*!
- * vue-no-ssr v1.1.1
- * (c) 2018-present egoist <0x142857@gmail.com>
- * Released under the MIT License.
- */
-
-
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation.
 
@@ -155,6 +125,36 @@ and limitations under the License.
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
+ */
+
+
+/*!
+   * perfect-scrollbar v1.5.0
+   * Copyright 2020 Hyunje Jun, MDBootstrap and Contributors
+   * Licensed under MIT
+   */
+
+/*!
+  * vue-scrollto v2.20.0
+  * (c) 2019 Randjelovic Igor
+  * @license MIT
+  */
+
+/*!
+ * Font Awesome Free 5.15.3 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+
+/*!
+ * vue-client-only v2.0.0
+ * (c) 2019-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+/*!
+ * vue-no-ssr v1.1.1
+ * (c) 2018-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
  */
 
 
